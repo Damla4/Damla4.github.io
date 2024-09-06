@@ -2,7 +2,7 @@ body {
     background-color: lightblue; 
 } /* Dit is de achtergrondkleur van mijn website.*/ 
 ul {
-    list-style-type: none;
+    list-style-type: none; /* dit is mijn horizontale navigation bar*/ 
     margin: 0;
     padding: 0;
     overflow: hidden;
