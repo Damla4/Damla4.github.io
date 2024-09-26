@@ -39,3 +39,8 @@ ul {
   margin-right: 20px; /* Ruimte tussen de plaatjes */
   vertical-align: top;
 }
+/* Video rechts naast de afbeeldingen */
+.video {
+  float: right;
+  margin-top: 20px;
+}
