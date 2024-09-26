@@ -44,3 +44,12 @@ ul {
   float: right;
   margin-top: 20px;
 }
+
+/* Spelletje linksonderaan */
+#spelletje {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
