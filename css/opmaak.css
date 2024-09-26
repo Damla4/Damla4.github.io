@@ -36,7 +36,7 @@ ul {
 } 
 #binairstelsel, #ASCII-code-tabel {
   display: inline-block;
-  margin-right: 20px; /* Ruimte tussen de plaatjes */
+  margin-right: 30px; /* Ruimte tussen de plaatjes */
   vertical-align: top;
 }
 /* Video rechts naast de afbeeldingen */
