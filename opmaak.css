@@ -26,4 +26,11 @@ ul {
   } 
  #kleurmodellen {float:left} 
  #binairstelsel {float:right}
- #ASCII-code-tabel {float:left}
+ #ASCII-code-tabel {float:left} 
+ #footer { 
+        background-color: rgb(239, 231, 219);
+  } 
+ #footer {
+ text-align: right;
+  margin: right 3%;;  
+}
