@@ -33,4 +33,9 @@ ul {
  #footer {
  text-align: center;
   margin: right 3%;;  
+} 
+#binairstelsel, #ASCII-code-tabel {
+  display: inline-block;
+  margin-right: 20px; /* Ruimte tussen de plaatjes */
+  vertical-align: top;
 }
