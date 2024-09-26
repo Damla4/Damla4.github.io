@@ -24,8 +24,8 @@ ul {
   li a:hover {
     background-color: #f9c8c8;
   }  
- #binairstelsel {float:right}
  #ASCII-code-tabel {float:left} 
+ #lijstjes {float:left}
  #spelletje {float:inline-end} 
  #footer { 
         background-color: rgb(255, 240, 219);
