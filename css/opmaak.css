@@ -26,7 +26,8 @@ ul {
   }  
  #ASCII-code-tabel {float:left} 
  #lijstjes {float:left} 
- #filmpje {margin: 50px;}
+ #filmpje {margin: 50px;} 
+<link rel="icon" type="image/x-icon" href="iocn.jpg">
  #footer { 
         background-color: rgb(255, 240, 219);
   } 
