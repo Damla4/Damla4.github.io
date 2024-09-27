@@ -50,3 +50,24 @@ p {
   width: 600px;
   height: 300px;  
 } 
+#rcorners1 {
+  border-radius: 25px;
+  border: 5px solid #bc401e;
+  padding: 20px; 
+  width: 300px;
+  height: 300px;  
+} 
+#rcorners3 {
+  border-radius: 25px;
+  border: 5px solid #bc401e;
+  padding: 20px; 
+  width: 600px;
+  height: 300px;  
+} 
+#rcorners4 {
+  border-radius: 25px;
+  border: 5px solid #bc401e;
+  padding: 20px; 
+  width: 600px;
+  height: 300px;  
+} 
