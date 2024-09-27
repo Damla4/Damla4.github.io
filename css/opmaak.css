@@ -85,3 +85,10 @@ p {
   width: 400px;
   height: 400px;  
 } 
+#rcorners7 {
+  border-radius: 15px;
+  background: #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 150px; 
+} 
