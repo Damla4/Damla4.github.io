@@ -33,16 +33,6 @@ ul {
  text-align: center;
   margin: right 3%;;  
 } 
-#binairstelsel, #ASCII-code-tabel {
-  display: inline-block;
-  margin-right: 30px; /* Ruimte tussen de plaatjes */
-  vertical-align: top;
-}
-/* Video rechts naast de afbeeldingen */
-.video {
-  float: right;
-  margin-top: 50px;
-} 
 #rcorners2 {
   border-radius: 25px;
   border: 5px solid #bc401e;
