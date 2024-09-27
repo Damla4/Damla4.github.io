@@ -3,53 +3,53 @@ body {
 } /* Dit is de achtergrondkleur van mijn website.*/ 
 ul {
     list-style-type: none; /* dit is mijn horizontale navigation bar*/ 
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #e14b4bb6;
+    margin: 0; /* Verwijdert standaard marge rondom de lijst */
+    padding: 0; /* Verwijdert standaard opvulling rondom de lijst */
+    overflow: hidden; /* Zorgt ervoor dat de inhoud niet buiten de container loopt */
+    background-color: #e14b4bb6; /* Achtergrondkleur van de navigatiebalk/menubar */
   }
   
   li {
-    float: left;
-  }
+    float: left; 
+  } /* Zorgt ervoor dat de lijstitems naast elkaar worden geplaatst, horizontaal */
   
   li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    display: block; /* Maakt de anker link een blok-element zodat het hele gebied klikbaar is */
+    color: white; /* Kleur van de tekst in de links */
+    text-align: center; /* Centreert de tekst in het blok */
+    padding: 14px 16px; /* Voegt opvulling toe binnen de links */
+    text-decoration: none; /* Verwijdert de standaard onderstreping van links */
   }
   
   li a:hover {
-    background-color: #f9c8c8;
-  }  
- #ASCII-code-tabel {float:left} 
- #lijstjes {float:right} 
- #filmpje {margin: 50px;} 
+    background-color: #f9c8c8; 
+  }  /* Verandert de achtergrondkleur van de link wanneer je eroverheen hovert */
+ #ASCII-code-tabel {float:left}  /* Plaatst de ASCII-code tabel naar linkerkant van de pagina */
+ #lijstjes {float:right} /* Plaatst de lijstjes naar de rechterkant van de pagina */ 
+ #filmpje {margin: 50px;} /* Voegt een marge van 50px rondom het filmpje toe */
   .p3 {
     font-family: "Lucida Console", "Courier New", monospace;
-  }
+  } /* Geeft een monospace-lettertype aan voor elementen met de klasse .p3 */
 .p2 {
   font-family: Arial, Helvetica, sans-serif;
-}
+} /* Gebruik Arial of een fallback-lettertype voor elementen met de klasse .p2 */
 p {
   font-size: 18px;
-}
+} /* Zet de standaard lettergrootte voor paragrafen op 18px */
  #footer { 
         background-color: rgb(255, 240, 219);
-  } 
+  } /* Achtergrondkleur van de footersectie */
  #footer {
- text-align: center;
-  margin: right 8%;;  
+ text-align: center; /* Centreert de tekst in de footer */
+  margin: right 8%;; /* Probeert marge aan de rechterkant toe te voegen, maar de syntax is niet correct */ 
 } 
 #rcorners2 {
-  border-radius: 25px;
-  border: 5px solid #bc401e;
-  padding: 20px; 
-  width: 600px;
-  height: 300px;  
-} 
+  border-radius: 25px; /* Zorgt voor afgeronde hoeken van 25px */
+  border: 5px solid #bc401e; /* Voegt een rand van 5px toe met een kleur */
+  padding: 20px; /* Voegt 20px opvulling toe binnen het element */
+  width: 600px; /* Zet de breedte van het element op 600px */
+  height: 300px; /* Zet de hoogte van het element op 300px */
+} /* Element met afgeronde hoeken, een rand en opvulling, dit geldt voor alle onderstaande rconers. De waardes staan van alle ellementen staan erbij als je wilt weten hvl height het kan je bij de bovenste deel bekijken daar is alles uitgelegd per element. */
 #rcorners1 {
   border-radius: 25px;
   border: 5px solid #bc401e;
