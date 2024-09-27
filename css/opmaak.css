@@ -24,8 +24,8 @@ ul {
   li a:hover {
     background-color: #f9c8c8;
   }  
- #ASCII-code-tabel {float:right} 
- #lijstjes {float:left} 
+ #ASCII-code-tabel {float:left} 
+ #lijstjes {float:right} 
  #filmpje {margin: 50px;} 
  #footer { 
         background-color: rgb(255, 240, 219);
