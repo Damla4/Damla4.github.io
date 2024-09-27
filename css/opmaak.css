@@ -26,6 +26,7 @@ ul {
   }  
  #ASCII-code-tabel {float:left} 
  #lijstjes {float:left} 
+ #filmpje {margin: 20px;}
  #footer { 
         background-color: rgb(255, 240, 219);
   } 
@@ -39,4 +40,4 @@ ul {
   padding: 20px; 
   width: 600px;
   height: 300px;  
-}
+} 
