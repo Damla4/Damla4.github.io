@@ -87,7 +87,7 @@ p {
 } 
 #rcorners7 {
     border-radius: 25px;
-    background: #ff6868;
+    background: rgb(239, 231, 219) ;
     padding: 20px; 
     width: 700px;
     height: 100px;  
