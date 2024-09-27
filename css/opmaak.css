@@ -113,3 +113,10 @@ p {
   width: 1000px;
   height: 15px;  
 }  
+#rcorners11 {
+  border-radius: 25px;
+  background: rgb(238, 163, 224) ;
+  padding: 20px; 
+  width: 1000px;
+  height: 15px;  
+}  
