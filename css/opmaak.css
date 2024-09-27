@@ -30,6 +30,9 @@ ul {
  #body {
   font-family: "Courier New", Courier, monospace;
 } 
+.p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
  #footer { 
         background-color: rgb(255, 240, 219);
   } 
