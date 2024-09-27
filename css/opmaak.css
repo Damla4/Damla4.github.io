@@ -27,12 +27,9 @@ ul {
  #ASCII-code-tabel {float:left} 
  #lijstjes {float:right} 
  #filmpje {margin: 50px;} 
- #body {
-  font-family: "Courier New", Courier, monospace;
-} 
-.p3 {
-  font-family: "Lucida Console", "Courier New", monospace;
-}
+  .p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
 .p2 {
   font-family: Arial, Helvetica, sans-serif;
 }
